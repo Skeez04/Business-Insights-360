@@ -53,5 +53,5 @@ The Supply Chain section focuses on the efficiency of our supply chain operation
 
 The Atliq Hardware Business Insights Dashboard is your go-to tool for understanding the holistic performance of our business. By leveraging Power BI's capabilities, we aim to empower you with actionable insights that drive informed decision-making. Whether it's finance, sales, marketing, or supply chain, this dashboard has you covered. Let's unlock new opportunities and steer our company towards even greater success.
 
-For any questions or assistance, please reach out to the Business Intelligence team. Happy analyzing!
+
 
