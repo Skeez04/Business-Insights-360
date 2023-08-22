@@ -2,6 +2,21 @@
 
 Welcome to the Atliq Hardware Business Insights Dashboard powered by Power BI. This dashboard provides a comprehensive view of our business performance across key departments including Finance, Sales, Marketing, and Supply Chain. The insights presented here are designed to help you make informed decisions, track progress, and identify areas for improvement. 
 
+## About the Dashboard
+
+Power BI dashboard is designed to provide valuable insights into our data. Through visualizations and interactive features, you can explore trends, patterns, and key metrics that help us make informed decisions. The dashboard is powered by Power BI, a powerful business intelligence tool.
+
+You can access and interact with the dashboard through the following link:
+[View Power BI Dashboard]
+(https://app.powerbi.com/view?r=eyJrIjoiZjU0NGRjYzAtNzBhYS00NTVkLWEwZjYtZTYxZGQzMDRkNGUyIiwidCI6ImJhZDEyODY0LTkxM2UtNGI5OS04N2Q2LWI8ZDJhZDQ1OWUyNyIsImMiOjEwfQ%3D%3D)
+
+## Usage
+
+1. Click on the link above to access the Power BI dashboard.
+2. Once the dashboard loads, you can interact with various charts, graphs, and visual elements.
+3. Use the provided filters, slicers, and navigation tools to customize your view.
+4. Gain insights by analyzing the data presented in the dashboard.
+
 ## Finance Insights
 
 In the Finance section of the dashboard, you'll find crucial financial metrics and trends that highlight the company's monetary health. Key features include:
